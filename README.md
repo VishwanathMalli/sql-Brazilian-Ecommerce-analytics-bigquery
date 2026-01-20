@@ -1,6 +1,6 @@
 # Retail Growth & Customer Intelligence Engine (Olist E-Commerce)
 
-![Dashboard Preview](PowerBIDashboard/Dashboard.png)
+![Dashboard Preview](Power_BI_Dashboard/Dashboard.png)
 *(Note: Replace 'dashboard_page1.png' with the actual filename of your dashboard screenshot)*
 
 ## 📌 Executive Summary
