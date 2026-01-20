@@ -1,6 +1,6 @@
 # Retail Growth & Customer Intelligence Engine (Olist E-Commerce)
 
-![Dashboard Preview](Dashboard_Images/dashboard_page1.png)
+![Dashboard Preview](PowerBIDashboard/Dashboard.png)
 *(Note: Replace 'dashboard_page1.png' with the actual filename of your dashboard screenshot)*
 
 ## 📌 Executive Summary
@@ -33,14 +33,14 @@ The repository is organized as follows:
 
 | Folder | Description |
 | :--- | :--- |
-| **/SQL_Scripts** | Contains all .sql queries used for the analysis (RFM, Logistics, Trends). |
-| **/Dashboard_Images** | Screenshots of the interactive Power BI dashboard. |
-| **/Data** | (Optional) Sample data files. Full dataset link provided below. |
+| **/SQL Query** | Contains all .sql queries used for the analysis (RFM, Logistics, Trends). |
+| **/Dashboard** | Screenshot of the interactive Power BI dashboard. |
+| **/Data** | Full input dataset link provided. |
 
 ---
 
 ## 💻 SQL Code Highlight
-Here is a snippet of the logic used to identify the **"Supply Gaps"** (Cities with Demand but No Supply):
+Here is a sample snippet of the logic used to identify the **"Supply Gaps"** (Cities with Demand but No Supply):
 
 ```sql
 /* Query: Identify cities suitable for targeted seller acquisition
