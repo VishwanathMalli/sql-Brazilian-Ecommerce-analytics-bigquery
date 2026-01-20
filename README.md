@@ -1,7 +1,7 @@
 # Retail Growth & Customer Intelligence Engine (Olist E-Commerce)
 
-![Dashboard Preview](Power_BI_Dashboard/Dashboard.png)
-*(Note: Replace 'dashboard_page1.png' with the actual filename of your dashboard screenshot)*
+![Dashboard Preview](Power BI Dashboard/Dashboard.png)
+
 
 ## 📌 Executive Summary
 Analyzed **100k+ real-world orders** from the Brazilian Olist E-Commerce dataset to identify logistical inefficiencies, customer churn patterns, and revenue opportunities.
